@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BenchmarkingMovilV1Activity!</string>
+        <string name="app_name">Benchmarking Móvil</string>
+    <string name="titulo">Ubicación Satelital</string>
+    <string name="satelite">Satelite</string>
+    <string name="centrar">Conexión</string>
+    <string name="btnAltura">C. Altura</string>
+    <string name="ubicar">Ubicar</string>
+    <string name="InformacionConexion"><b>
+            <center>Información de conexión</center>
+        </b></string>
+    <string name="InformacionGeoUbicacion"><b>
+            <center>Información de Ubicación</center>
+        </b></string>
+    <string name="TestConectividad"><b>
+            <center>Test de conectividad</center>
+        </b></string>
+    <string name="btnTestConexion"><b>
+            <center>Test Conexión</center>
+        </b></string>
+    <string name="btnGuardarInfo"><b>
+            <center>Almacenar información</center>
+        </b></string>
+    <string name="moreInfo">Mas información</string>
+    <string name="latitud"><b>Latitud :</b></string>
+    <string name="longitud"><b>Longitud : </b></string>
+    <string name="altura"><b>Altura : </b></string>
+    <string name="estado"><b>Estado :</b></string>
+    <string name="estadoDetallado"><b>Estado detallado : </b></string>
+    <string name="roaming"><b>Roaming: </b></string>
+    <string name="direccion"><b>Dirección IP : </b></string>
+    <string name="tipoDeRed"><b>Tipo de Red :</b></string>
+    <string name="tipico_error_HostDesconocido">Host Desconocido</string>
+    <string name="tipico_error_TiempoConexion">Tiempo de conexión agotado </string>
+    <string name="tipico_error_ConexionRechazada">Conexión Rechazada</string>
+    <string name="tipico_error_SocketNoResponde">Tiempo de espera en los Datos</string>
+    <string name="no_hay_InformacionRed">No hay información de red disponible, lo siento.</string>
+    <string name="descargar_10KB"><b>10KB d/l: </b></string>
+    <string name="descargar_100KB"><b>100KB d/l: </b></string>
+    <string name="descargar_1MB"><b>1MB d/l: </b></string>
+    <string name="valor_vacio">n/a</string>
+    <string name="failed">Failed (%1$s)</string>
+    <string name="velocidad_dl">%1$.2f KB/sec</string>
+        <string name="archivo_pequeno">No esta conectado a una web real o el archivo es muy pequeño</string>
+    <string name="peligro_datos_movil">Se va a trabajar con datos de la red movil</string>
+    <string name="peligro_datos_genericos">Se va a trabajar con datos y se descargara 1MB, si esta conectado a un operador movil y su plan no es abierto es posible que le cobren la transferencia.</string>
+    <string name="lista_vacia">No hay elementos en la lista.</string>
+    <string name="nombre_registro">Nombre Registro :</string>
+    <string name="informacion_recopilada"><b>
+            <center>Información Recopilada</center>
+        </b></string>
+        <string name="informacion_almacenada"><b>
+            <center>Información Almacenada</center>
+        </b></string>
+        <string name="info_10k">Información 10K :</string>
+        <string name="info_100k">Información 100k:</string>
+        <string name="info_1mb">Información 1 MB :</string>
+        <string name="btnInfoGuardar">Guardar</string>
+        <string name="btnInfoVerRegistros">Ver</string>
+        <string name="btnInfoCargar">Cargar</string>
+         <string name="btnConstruirArchivo">Construir Csv</string>
+         <string name="btnEnviarInformacion">Enviar Info</string>
+ <string name="btnEliminarRegistros">Eliminar Info</string>
+</resources>
