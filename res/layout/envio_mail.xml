@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:id="@+id/LinearLayout01" 
+			  android:layout_width="fill_parent"
+			  android:layout_height="fill_parent"
+			  android:orientation="vertical"
+  		      xmlns:android="http://schemas.android.com/apk/res/android">
+	<LinearLayout android:id="@+id/LinearLayout02"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content"
+ 				  android:orientation="horizontal">
+		<TextView android:text="Destinatario"
+				  android:layout_width="wrap_content" 
+				  android:layout_height="wrap_content" 
+				  android:id="@+id/txtForEmail"></TextView>
+
+		<EditText
+		    android:id="@+id/etEmail"
+		    android:layout_width="245dp"
+		    android:layout_height="wrap_content"
+		    android:inputType="textEmailAddress"
+		    android:hint="mail@dominio.com"
+		    android:width="170dip" >
+
+		</EditText>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/LinearLayout03"
+ 				  android:layout_width="wrap_content" 
+ 				  android:layout_height="wrap_content"
+ 				  android:orientation="horizontal">
+
+		<TextView
+		    android:id="@+id/txtForSubject"
+		    android:layout_width="76dp"
+		    android:layout_height="wrap_content"
+		    android:text="Asunto" >
+</TextView>
+
+		<EditText
+		    android:id="@+id/etSubject"
+		    android:layout_width="242dp"
+		    android:layout_height="wrap_content"
+		    android:hint="Envio Info BenchMarking..!!"
+		    android:width="170dip" >
+
+		</EditText>
+	</LinearLayout>
+	<LinearLayout android:id="@+id/LinearLayout04"
+ 				  android:layout_width="wrap_content" 
+ 				  android:layout_height="wrap_content"
+ 				  android:orientation="horizontal">
+		<TextView android:text="Mensaje"
+			      android:layout_width="wrap_content" 
+			      android:layout_height="wrap_content"
+			       android:id="@+id/txtForBody"></TextView>
+
+		<EditText
+		    android:id="@+id/etBody"
+		    android:layout_width="wrap_content"
+		    android:layout_height="234dp"
+		    android:lines="5"
+		    android:hint="Cordial saludo..// adjunto envio archivo, con el analisis de la red. "
+		    android:width="300dip" >
+
+		</EditText>
+	</LinearLayout>
+	<CheckBox android:text="Enviar archivo adjunto .CSV" 
+			  android:id="@+id/chkAttachment" 
+			  android:layout_width="wrap_content" 
+			  android:layout_height="wrap_content"></CheckBox>
+	<Button android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:id="@+id/btnSend"
+			android:text="Enviar"
+			android:imeOptions="actionSend"
+			android:width="150dip">
+	</Button>
+</LinearLayout>

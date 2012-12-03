@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item android:id="@+id/MnuSitioweb" android:icon="@drawable/ic_menu_globe" android:title="www">
+    </item>
+    <item
+        android:id="@+id/MnuSobre"
+        android:icon="@drawable/ic_menu_settings"
+        android:title="Sobre.">
+    </item><item android:id="@+id/MnuSalir" android:icon="@drawable/ic_menu_exit" android:title="Salir">
+    </item>
+
+</menu>
