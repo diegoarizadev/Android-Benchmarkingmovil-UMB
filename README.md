@@ -1,5 +1,5 @@
 # Benchmarking Móvil V.1
-# Powered be n0rf3n
+# Aplicación para el análisis de la calidad de servicio (Internet Móvil - WiFI)
 
 El benchmarking Móvil, en la administración de empresas, puede definirse como un proceso sistemático y continuo para evaluar comparativamente los productos, en este caso evaluaremos los servicios de conectividad móvil (Internet) que ofrecen los diferentes proveedores de telecomunicaciones móviles en nuestro país (Colombia), así como los proveedores de servicios de internet residencial o empresarial (Internet Wifi). Con el objetivo de poder almacenar en una base de datos (sqlite) del dispositivo y enviar esta información vía mail o descargarla de la memoria SD o microSD del equipo para ser analizada en áreas o cursos de Desarrollo de software para telecomunicaciones o Nuevas tecnologías.
 
