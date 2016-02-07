@@ -11,31 +11,18 @@ Esta aplicación es de uso Educativo, por tal motivo el Código Fuente no estar�
 * [Galeria](https://picasaweb.google.com/102172818830568538607/BenchMarking_Movil)
 
 ![Alt text](https://lh3.googleusercontent.com/-sG2vcPlV7VY/T9S7NxPe-nI/AAAAAAAAAgw/VXwee6Vb-2E/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-10%252520a%252520la%252528s%252529%25252010.19.03.png "1")
-
 ![Alt text](https://lh3.googleusercontent.com/-noCEsWnpdPU/T9aBRrtvoBI/AAAAAAAAAio/miL7NX2DOcE/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-11%252520a%252520la%252528s%252529%25252015.20.28.png "2")
-
 ![Alt text](https://lh3.googleusercontent.com/-40MXUo3Thbk/T9S7NE0KIVI/AAAAAAAAAgo/cKjx1ebhwkE/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-10%252520a%252520la%252528s%252529%25252010.19.11.png "3")
-
 ![Alt text](https://lh3.googleusercontent.com/-lLzAQj0L6oE/T9TN3GhPyCI/AAAAAAAAAhU/lZE6GItlOEw/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-10%252520a%252520la%252528s%252529%25252011.39.16.png "4")
-
 ![Alt text](https://lh3.googleusercontent.com/-upMi0kY_XW4/T9aBNLm4YtI/AAAAAAAAAiM/jmNdm4Keawc/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-11%252520a%252520la%252528s%252529%25252018.32.13.png "5")
-
 ![Alt text](https://lh3.googleusercontent.com/-UUIpHB2LvKs/T9aBSze0lRI/AAAAAAAAAi8/aqw4LxTpgvo/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-11%252520a%252520la%252528s%252529%25252015.29.16.png "6")
-
 ![Alt text](https://lh3.googleusercontent.com/-ziQxrHW88vI/T9aBUy4JjoI/AAAAAAAAAjM/PSJzJJxygTg/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-11%252520a%252520la%252528s%252529%25252015.29.29.png "7")
-
 ![Alt text](https://lh3.googleusercontent.com/-Y5X3MJczh0A/T9aBVm_2hkI/AAAAAAAAAjc/SvRBaxiz17E/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-10%252520a%252520la%252528s%252529%25252011.39.16.png "8")
-
 ![Alt text](https://lh3.googleusercontent.com/-FXlHX_hP85c/T9aBZx5v2XI/AAAAAAAAAkc/dQkh-xzNiy8/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-11%252520a%252520la%252528s%252529%25252015.32.42.png "9")
-
 ![Alt text](https://lh3.googleusercontent.com/-090a4MsQkIM/T9aBaT45Y5I/AAAAAAAAAkk/HGBfAKF38nE/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-11%252520a%252520la%252528s%252529%25252015.33.10.png "10")
-
 ![Alt text](https://lh3.googleusercontent.com/-njG5kdrmV2g/T9aBabJ5I2I/AAAAAAAAAko/WCkmJPX3NXY/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-11%252520a%252520la%252528s%252529%25252015.33.18.png "11")
-
 ![Alt text](https://lh3.googleusercontent.com/-5ZFTUb6B7ds/T9aBar_xwuI/AAAAAAAAAk0/ZwBNg2AA7OY/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-11%252520a%252520la%252528s%252529%25252015.33.29.png "12")
-
 ![Alt text](https://lh3.googleusercontent.com/-89ClDVzEQGk/T9aBdmhgCzI/AAAAAAAAAmM/8y3LArb9ugE/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-11%252520a%252520la%252528s%252529%25252017.16.10.png "13")
-
 ![Alt text](https://lh3.googleusercontent.com/-b3K68AzpsiI/T9aBem7hkaI/AAAAAAAAAmU/V0npUFFeb9A/s512-Ic42/Captura%252520de%252520pantalla%2525202012-06-11%252520a%252520la%252528s%252529%25252017.41.20.png "14")
 
 
